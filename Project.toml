@@ -1,5 +1,6 @@
 [deps]
 DFTK = "acf6eb54-70d9-11e9-0013-234b7a5f5337"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
 LineSearches = "d3d80556-e9d4-5f37-9878-2ab0fcc64255"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
