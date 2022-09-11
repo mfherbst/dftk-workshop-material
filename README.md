@@ -1,4 +1,4 @@
-# Material for the DFTK school 2022
+# DFTK school 2022 exercises
 
 This repository contains the exercises and some of the lecture material of
 the [DFTK school 2022](https://school2022.dftk.org/).
